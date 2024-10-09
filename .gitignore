@@ -28,3 +28,5 @@
 bin/*
 /.check*
 /deps/*
+.cache
+compile_commands.json
